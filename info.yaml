@@ -24,11 +24,14 @@ documentation:
   author:       "Caleb Hensley"      # Your name
   title:        "Supercon Workshop"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  "Works, hopefully"      # Short description of what your project does
+  description:  "Example of logic gates: AND, NAND, OR, XOR"      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
-      Explain how your project works
+      Input 0 and 1 input to an AND gate and output to output 0.
+      Input 2 and 3 input to a NAND gate and output to output 1.
+      Input 4 and 5 input to a OR gate and output to output 2.
+      Input 6 and 7 input to a XOR gate and output to output 3.
 
 # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
   how_to_test:  |
